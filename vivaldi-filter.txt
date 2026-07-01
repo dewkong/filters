@@ -7,5 +7,17 @@ reddit.com##.promotedlink
 ! Startpage
 startpage.com##.anonymous-view-link
 
+! Fextralife
 www.google.com##a[href*="fextralife.com"]
 www.google.com##div:has(a[href*="fextralife.com"])
+
+! Ponderclub
+ponderclub.co##div.MuiBox-root.css-19slw12
+
+! Reddit AI
+www.reddit.com##.block.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
+www.reddit.com##.xs\:grid-cols-\[32px_1fr\].mt-sm.xs\:px-0.px-md.gap-x-xs.gap-y-\[2px\].grid-cols-\[24px_1fr\].grid
+www.reddit.com##.mb-0.pt-md.mt-md.border-x-0.border-neutral-border-weak.border-solid.border-b-0.border-t-sm.flex-col.flex
+
+! Jakdojade
+jakdojade.pl##.user-points-account-promo

@@ -9,4 +9,4 @@ startpage.com##.anonymous-view-link
 
 ! Fextralife
 
-google.*##a[href*="fextralife.com"]:upward(3)
+google.*##a[href*="fextralife.com"]:upward(5)

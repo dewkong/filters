@@ -6,6 +6,3 @@ reddit.com##.promotedlink
 
 ! Startpage
 startpage.com##.anonymous-view-link
-
-! Fextralife
-www.google.com##div:has(a[href*="fextralife.com"])

@@ -6,3 +6,7 @@ reddit.com##.promotedlink
 
 ! Startpage
 startpage.com##.anonymous-view-link
+
+! Fextralife
+google.*##.g:has(a[href^="https://fextralife.com"])
+google.*##.g:has(a[href^="https://www.fextralife.com"])

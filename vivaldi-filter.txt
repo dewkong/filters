@@ -8,5 +8,5 @@ reddit.com##.promotedlink
 startpage.com##.anonymous-view-link
 
 ! Fextralife
-google.*##.g:has(a[href^="https://fextralife.com"])
-google.*##.g:has(a[href^="https://www.fextralife.com"])
+
+google.*##a[href*="fextralife.com"]:upward(3)

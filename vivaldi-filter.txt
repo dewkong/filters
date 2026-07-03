@@ -10,7 +10,7 @@ startpage.com##.anonymous-view-link
 ! Fextralife
 ! www.google.com##a[href*="fextralife.com"]
 ! www.google.com##div:has(a[href*="fextralife.com"])
-www.google.com##div:has(> div > div > div > div > div > div > a[href*="fextralife.com"])
+www.google.com##div:has(> div > div > div > div > div > a[href*="fextralife.com"])
 
 ! Ponderclub
 ponderclub.co##div.MuiBox-root.css-19slw12

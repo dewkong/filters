@@ -14,6 +14,7 @@ startpage.com##.anonymous-view-link
 
 ! Fextralife
 www.google.com##div[data-rpos]:has(a[href*="fextralife.com"])
+www.google.com##div[data-dsrp]:has(a[href*="fextralife.com"])
 
 ! Ponderclub
 ponderclub.co##div.MuiBox-root.css-19slw12

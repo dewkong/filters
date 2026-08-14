@@ -21,3 +21,5 @@ ponderclub.co##div.MuiBox-root.css-19slw12
 
 ! Jakdojade
 jakdojade.pl##.user-points-account-promo
+jakdojade.pl##app-default-user-points
+
